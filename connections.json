@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "user": {
     "name": "mafiyacoding001-beep",
-    "netCallId": "NC-782914",
+    "netCallId": "mafiyacoding001-beep",
     "roomCode": "8839",
-    "webrtcPeerId": "peer_nc782914"
+    "webrtcPeerId": "peer_mafiyacoding001beep"
   },
   "webrtc_signaling": {
     "protocol": "WebRTC / SDP + ICE Candidates",
@@ -22,7 +22,7 @@
   },
   "active_webrtc_session": {
     "roomCode": "8839",
-    "sessionId": "webrtc-session-nc782914",
+    "sessionId": "webrtc-session-mafiyacoding001beep",
     "sdpState": "have-local-offer",
     "iceGatheringState": "complete"
   },

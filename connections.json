@@ -23,8 +23,8 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
-    "sdpState": "have-local-offer",
-    "targetNetCallId": "BHOLABHAI5692",
+    "sdpState": "idle",
+    "targetNetCallId": "",
     "iceGatheringState": "complete"
   },
   "connections": [

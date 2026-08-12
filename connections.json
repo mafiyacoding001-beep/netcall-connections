@@ -27,22 +27,6 @@
     "targetNetCallId": "",
     "iceGatheringState": "complete"
   },
-  "pending_message": {
-    "toNetCallId": "BHOLABHAI5692",
-    "fromName": "mafiyacoding001-beep",
-    "text": "hi",
-    "timestamp": 1786524476592
-  },
   "connections": [
-    {
-      "name": "bholabhai5692",
-      "netCallId": "BHOLABHAI5692",
-      "webrtcPeerId": "peer_bholabhai5692",
-      "webrtcSignalingUri": "webrtc://bholabhai5692.netcall.io/call",
-      "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
-      "supportedCodecs": ["Opus 48kHz", "VP8"],
-      "status": "online",
-      "isFavorite": false
-    }
   ]
 }

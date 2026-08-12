@@ -23,8 +23,8 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
-    "sdpState": "have-local-answer",
-    "targetNetCallId": "NC-9943",
+    "sdpState": "idle",
+    "targetNetCallId": "",
     "sdp": "",
     "iceCandidates": [],
     "iceGatheringState": "complete"

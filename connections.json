@@ -23,11 +23,17 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
-    "sdpState": "idle",
-    "targetNetCallId": "",
-    "sdp": "",
-    "iceCandidates": [],
+    "sdpState": "have-local-offer",
+    "targetNetCallId": "SUNDARTKUR22665-RGB",
+    "sdp": "v=0\r\no=- 4449744649872720653 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS ARDAMS\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 102 0 8 13 110 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:BDpm\r\na=ice-pwd:eHDIaz83gQ0ShID/rma3ur0q\r\na=ice-options:trickle renomination\r\na=fingerprint:sha-256 68:D5:54:78:AE:F7:21:5A:EE:0B:3A:AE:CE:E7:75:4A:E2:B5:28:DE:52:BA:D1:61:6F:E2:C6:F2:71:27:43:78\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:ARDAMS ARDAMSa0\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:1079615127 cname:jxx3L2kF6og3feHh\r\na=ssrc:1079615127 msid:ARDAMS ARDAMSa0\r\n",
+    "iceCandidates": ["0|0|candidate:2644961000 1 udp 2122063615 100.101.16.121 47957 typ host generation 0 ufrag BDpm network-id 3 network-cost 900","0|0|candidate:2490325015 1 udp 2121932543 127.0.0.1 46068 typ host generation 0 ufrag BDpm network-id 5","0|0|candidate:1666045300 1 udp 2122131711 2401:4900:81e6:777d:fd43:41df:5794:3b16 48638 typ host generation 0 ufrag BDpm network-id 4 network-cost 900","0|0|candidate:3434173022 1 udp 2122005759 ::1 34223 typ host generation 0 ufrag BDpm network-id 6","0|0|candidate:1724583378 1 udp 1685855999 106.221.227.121 47957 typ srflx raddr 100.101.16.121 rport 47957 generation 0 ufrag BDpm network-id 3 network-cost 900","0|0|candidate:940953570 1 udp 1685924095 2401:4900:81e6:777d:fd43:41df:5794:3b16 48638 typ srflx raddr 2401:4900:81e6:777d:fd43:41df:5794:3b16 rport 48638 generation 0 ufrag BDpm network-id 4 network-cost 900"],
     "iceGatheringState": "complete"
+  },
+  "pending_message": {
+    "toNetCallId": "SUNDARTKUR22665-RGB",
+    "fromName": "mafiyacoding001-beep",
+    "text": "hi",
+    "timestamp": 1786546028985
   },
   "connections": [
     {

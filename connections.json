@@ -24,7 +24,7 @@
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
     "sdpState": "idle",
-    "targetNetCallId": "",
+    "targetNetCallId": "SUNDARTKUR22665-RGB",
     "sdp": "",
     "iceCandidates": [],
     "iceGatheringState": "complete"
@@ -36,6 +36,16 @@
       "webrtcPeerId": "peer_bholabhai5692",
       "webrtcSignalingUri": "webrtc://bholabhai5692.netcall.io/call",
       "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
+      "supportedCodecs": ["Opus 48kHz", "VP8"],
+      "status": "online",
+      "isFavorite": false
+    },
+    {
+      "name": "sundartkur22665-rgb",
+      "netCallId": "SUNDARTKUR22665-RGB",
+      "webrtcPeerId": "peer_sundartkur22665rgb",
+      "webrtcSignalingUri": "webrtc://sundartkur22665-rgb.netcall.io/call",
+      "iceCandidate": "candidate:2 1 UDP 2122260223 192.168.1.102 50001 typ host",
       "supportedCodecs": ["Opus 48kHz", "VP8"],
       "status": "online",
       "isFavorite": false

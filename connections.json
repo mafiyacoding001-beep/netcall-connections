@@ -29,12 +29,6 @@
     "iceCandidates": [],
     "iceGatheringState": "complete"
   },
-  "pending_message": {
-    "toNetCallId": "BHOLABHAI5692",
-    "fromName": "mafiyacoding001-beep",
-    "text": "hi",
-    "timestamp": 1786529734950
-  },
   "connections": [
     {
       "name": "bholabhai5692",

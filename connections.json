@@ -23,10 +23,10 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
-    "sdpState": "idle",
+    "sdpState": "have-local-answer",
     "targetNetCallId": "SUNDARTKUR22665-RGB",
-    "sdp": "",
-    "iceCandidates": [],
+    "sdp": "v=0\r\no=- 1557675488291363674 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS ARDAMS\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 102 0 8 13 110 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:eHz/\r\na=ice-pwd:NhiG/yjxhZzE0CdsZLhe1EH4\r\na=ice-options:trickle renomination\r\na=fingerprint:sha-256 D3:C7:23:B6:43:00:92:6F:A0:B3:F7:A9:E4:1F:F7:AB:63:3D:26:73:92:EB:17:BA:58:6B:5A:81:26:47:2F:51\r\na=setup:active\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:ARDAMS ARDAMSa0\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:4077281609 cname:MJ/WsgeCumY0uReo\r\n",
+    "iceCandidates": ["0|0|candidate:1420275384 1 udp 2122063615 100.101.16.121 51210 typ host generation 0 ufrag eHz/ network-id 3 network-cost 900","0|0|candidate:727022260 1 udp 2121932543 127.0.0.1 60647 typ host generation 0 ufrag eHz/ network-id 5","0|0|candidate:1804551200 1 udp 2122131711 2401:4900:81e6:777d:fd43:41df:5794:3b16 55069 typ host generation 0 ufrag eHz/ network-id 4 network-cost 900","0|0|candidate:2635276937 1 udp 2122005759 ::1 60563 typ host generation 0 ufrag eHz/ network-id 6","0|0|candidate:3976262119 1 udp 1685855999 106.221.227.121 51210 typ srflx raddr 100.101.16.121 rport 51210 generation 0 ufrag eHz/ network-id 3 network-cost 900","0|0|candidate:3980119967 1 udp 1685924095 2401:4900:81e6:777d:fd43:41df:5794:3b16 55069 typ srflx raddr 2401:4900:81e6:777d:fd43:41df:5794:3b16 rport 55069 generation 0 ufrag eHz/ network-id 4 network-cost 900"],
     "iceGatheringState": "complete"
   },
   "connections": [

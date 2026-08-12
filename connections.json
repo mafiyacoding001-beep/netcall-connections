@@ -24,7 +24,7 @@
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
     "sdpState": "idle",
-    "targetNetCallId": "BHOLABHAI5692",
+    "targetNetCallId": "",
     "sdp": "",
     "iceCandidates": [],
     "iceGatheringState": "complete"

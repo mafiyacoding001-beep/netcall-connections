@@ -29,12 +29,6 @@
     "iceCandidates": [],
     "iceGatheringState": "complete"
   },
-  "pending_message": {
-    "toNetCallId": "SUNDARTKUR22665-RGB",
-    "fromName": "mafiyacoding001-beep",
-    "text": "hi",
-    "timestamp": 1786546028985
-  },
   "connections": [
     {
       "name": "bholabhai5692",

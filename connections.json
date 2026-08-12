@@ -23,11 +23,17 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-mafiyacoding001beep",
-    "sdpState": "have-local-offer",
-    "targetNetCallId": "BHOLABHAI5692",
-    "sdp": "v=0\r\no=- 4646857266303224796 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS ARDAMS\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 102 0 8 13 110 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:u0Wi\r\na=ice-pwd:G7im/D6gZC7YkGFlpzoyOnPC\r\na=ice-options:trickle renomination\r\na=fingerprint:sha-256 C6:DD:F5:68:1B:4D:BF:34:89:B2:A4:47:54:5A:56:83:5C:7B:5B:E0:8E:BC:90:0D:75:ED:C8:0B:58:44:07:00\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:ARDAMS ARDAMSa0\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:283428014 cname:Qb9VJkq5O4eXJekg\r\na=ssrc:283428014 msid:ARDAMS ARDAMSa0\r\n",
-    "iceCandidates": ["0|0|candidate:2014788240 1 udp 2122063615 100.105.124.207 45573 typ host generation 0 ufrag u0Wi network-id 3 network-cost 900","0|0|candidate:771500288 1 udp 2121932543 127.0.0.1 45736 typ host generation 0 ufrag u0Wi network-id 5","0|0|candidate:2347774968 1 udp 2122131711 2401:4900:820b:e772:67de:360b:8292:4b9e 51421 typ host generation 0 ufrag u0Wi network-id 4 network-cost 900","0|0|candidate:2612687165 1 udp 2122005759 ::1 47998 typ host generation 0 ufrag u0Wi network-id 6","0|0|candidate:3953762899 1 udp 1685855999 106.221.224.207 45573 typ srflx raddr 100.105.124.207 rport 45573 generation 0 ufrag u0Wi network-id 3 network-cost 900","0|0|candidate:3952253995 1 udp 1685924095 2401:4900:820b:e772:67de:360b:8292:4b9e 51421 typ srflx raddr 2401:4900:820b:e772:67de:360b:8292:4b9e rport 51421 generation 0 ufrag u0Wi network-id 4 network-cost 900"],
+    "sdpState": "idle",
+    "targetNetCallId": "",
+    "sdp": "",
+    "iceCandidates": [],
     "iceGatheringState": "complete"
+  },
+  "pending_message": {
+    "toNetCallId": "BHOLABHAI5692",
+    "fromName": "mafiyacoding001-beep",
+    "text": "ji",
+    "timestamp": 1786533325868
   },
   "connections": [
     {

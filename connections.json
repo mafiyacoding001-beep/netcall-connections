@@ -27,5 +27,55 @@
     "iceGatheringState": "complete"
   },
   "connections": [
+    {
+      "name": "Aarav Sharma",
+      "netCallId": "NC-8821",
+      "webrtcPeerId": "peer_nc8821",
+      "webrtcSignalingUri": "webrtc://nc-8821.netcall.io/call",
+      "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
+      "supportedCodecs": ["Opus 48kHz", "VP8"],
+      "status": "online",
+      "isFavorite": true
+    },
+    {
+      "name": "Ananya Singh",
+      "netCallId": "NC-9943",
+      "webrtcPeerId": "peer_nc9943",
+      "webrtcSignalingUri": "webrtc://nc-9943.netcall.io/call",
+      "iceCandidate": "candidate:2 1 UDP 2122260223 192.168.1.102 50001 typ host",
+      "supportedCodecs": ["Opus 48kHz", "VP8"],
+      "status": "online",
+      "isFavorite": true
+    },
+    {
+      "name": "Priya Patel",
+      "netCallId": "NC-5532",
+      "webrtcPeerId": "peer_nc5532",
+      "webrtcSignalingUri": "webrtc://nc-5532.netcall.io/call",
+      "iceCandidate": "candidate:3 1 UDP 2122260223 192.168.1.103 50002 typ host",
+      "supportedCodecs": ["Opus 48kHz", "VP8"],
+      "status": "online",
+      "isFavorite": true
+    },
+    {
+      "name": "Kabir Mehta",
+      "netCallId": "NC-3371",
+      "webrtcPeerId": "peer_nc3371",
+      "webrtcSignalingUri": "webrtc://nc-3371.netcall.io/call",
+      "iceCandidate": "candidate:4 1 UDP 2122260223 192.168.1.104 50003 typ host",
+      "supportedCodecs": ["Opus 48kHz", "VP8"],
+      "status": "online",
+      "isFavorite": false
+    },
+    {
+      "name": "Rohan Verma",
+      "netCallId": "NC-1104",
+      "webrtcPeerId": "peer_nc1104",
+      "webrtcSignalingUri": "webrtc://nc-1104.netcall.io/call",
+      "iceCandidate": "candidate:5 1 UDP 2122260223 192.168.1.105 50004 typ host",
+      "supportedCodecs": ["Opus 48kHz", "VP8"],
+      "status": "online",
+      "isFavorite": false
+    }
   ]
 }

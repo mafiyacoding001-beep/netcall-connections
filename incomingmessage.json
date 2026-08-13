@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "senderName": "Priya Patel",
+    "senderNetCallId": "NC-5532",
+    "messageText": "Hello! Ready for HD voice WebRTC test call?",
+    "timestamp": 1786608298431,
+    "date": "2026-08-13",
+    "time": "01:34:58 PM"
+  },
+  {
+    "id": 2,
+    "senderName": "Aarav Sharma",
+    "senderNetCallId": "NC-8821",
+    "messageText": "Connected to room 8839. NetCall signal is active.",
+    "timestamp": 1786610098477,
+    "date": "2026-08-13",
+    "time": "02:04:58 PM"
+  }
+]

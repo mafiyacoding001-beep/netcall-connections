@@ -34,5 +34,17 @@
     "timestamp": 1786637537684,
     "date": "2026-08-13",
     "time": "09:42:17 PM"
+  },
+  {
+    "id": 4,
+    "sessionId": "webrtc-session-1786637832690",
+    "roomCode": "8839",
+    "peerGithubUsername": "@bholabhai5692",
+    "iceCandidate": "candidate:1 1 UDP 2122260223 127.0.0.1 57735 typ host",
+    "protocol": "WebRTC \/ SDP + ICE Candidates",
+    "status": "WebRTC P2P Direct Tunnel Established",
+    "timestamp": 1786637832690,
+    "date": "2026-08-13",
+    "time": "09:47:12 PM"
   }
 ]

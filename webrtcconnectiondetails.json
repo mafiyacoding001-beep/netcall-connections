@@ -202,5 +202,17 @@
     "timestamp": 1786645435088,
     "date": "2026-08-13",
     "time": "11:53:55 PM"
+  },
+  {
+    "id": 18,
+    "sessionId": "webrtc-session-1786645469381",
+    "roomCode": "8839",
+    "peerGithubUsername": "@bholabhai5692",
+    "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
+    "protocol": "WebRTC \/ SDP Offer + ICE Candidates",
+    "status": "WebRTC Signaling Offer Sent",
+    "timestamp": 1786645469381,
+    "date": "2026-08-13",
+    "time": "11:54:29 PM"
   }
 ]

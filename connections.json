@@ -17,5 +17,12 @@
     ]
   },
   "connections": [
+    {
+      "name": "bholabhai5692",
+      "githubUsername": "@bholabhai5692",
+      "webrtcPeerId": "peer_bholabhai5692",
+      "status": "online",
+      "isFavorite": false
+    }
   ]
 }

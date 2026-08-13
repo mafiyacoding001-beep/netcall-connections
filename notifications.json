@@ -1,12 +1,26 @@
 [
   {
-    "callId": "call-1786644464170",
+    "callId": "call-1786645125057",
     "callerName": "mafiyacoding001-beep",
     "callerGithubUsername": "@mafiyacoding001-beep",
     "recipientGithubUsername": "@bholabhai5692",
-    "status": "DISCONNECTED",
-    "timestamp": 1786644531083,
+    "status": "OFFERING",
+    "senderIp": "10.211.21.229",
+    "senderPort": 45912,
+    "sdpOffer": "v=0\no=- 1786645125058 2 IN IP4 0.0.0.0\ns=NetCall WebRTC P2P Voice Session\nt=0 0\na=group:BUNDLE audio\na=ice-ufrag:74bb5541\na=ice-pwd:7a114b247b7eaf1071e3f83a\na=ice-options:trickle\na=fingerprint:sha-256 EE:BB:CC:DD:AA:11:22:33:44:55:66:77:88:99:00:11:22:33:44:55\nm=audio 0 UDP\/TLS\/RTP\/SAVPF 111 103 104 9 0 8\nc=IN IP4 0.0.0.0\na=rtcp-mux\na=rtpmap:111 opus\/48000\/2\na=fmtp:111 minptime=10;useinbandfec=1\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\na=sendrecv\na=setup:actpass\na=ice-servers:stun:stun.l.google.com:19302;stun:stun1.l.google.com:19302;stun:stun2.l.google.com:19302;stun:stun3.l.google.com:19302;stun:stun4.l.google.com:19302;turn:openrelay.metered.ca:80;turn:openrelay.metered.ca:443;turn:openrelay.metered.ca:443?transport=tcp",
+    "stunServers": [
+      "stun:stun.l.google.com:19302",
+      "stun:stun1.l.google.com:19302",
+      "stun:stun2.l.google.com:19302",
+      "stun:stun3.l.google.com:19302",
+      "stun:stun4.l.google.com:19302",
+      "turn:openrelay.metered.ca:80",
+      "turn:openrelay.metered.ca:443",
+      "turn:openrelay.metered.ca:443?transport=tcp"
+    ],
+    "iceCandidates": "candidate:1 1 UDP 2122260223 10.211.21.229 45912 typ host\ncandidate:2 1 UDP 1686052607 10.211.21.229 45912 typ srflx\ncandidate:3 1 UDP 1686052607 10.211.21.229 45912 typ srflx\ncandidate:4 1 UDP 1686052607 10.211.21.229 45912 typ srflx\ncandidate:5 1 UDP 1686052607 10.211.21.229 45912 typ srflx\ncandidate:6 1 UDP 1686052607 10.211.21.229 45912 typ srflx\ncandidate:10 1 UDP 41885439 10.211.21.229 45912 typ relay\ncandidate:11 1 UDP 41885439 10.211.21.229 45912 typ relay\ncandidate:12 1 UDP 41885439 10.211.21.229 45912 typ relay",
+    "timestamp": 1786645125060,
     "date": "2026-08-13",
-    "time": "11:38:51 PM"
+    "time": "11:48:45 PM"
   }
 ]

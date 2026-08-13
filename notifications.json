@@ -1,12 +1,26 @@
 [
   {
-    "callId": "call-1786643292384",
-    "callerName": "mafiyacoding001-beep",
-    "callerGithubUsername": "@mafiyacoding001-beep",
-    "recipientGithubUsername": "@bholabhai5692",
-    "status": "DISCONNECTED",
-    "timestamp": 1786643296821,
+    "callId": "call-1786643433854",
+    "callerName": "bholabhai5692",
+    "callerGithubUsername": "@bholabhai5692",
+    "recipientGithubUsername": "@mafiyacoding001-beep",
+    "status": "CONNECTED",
+    "senderIp": "10.211.21.229",
+    "senderPort": 50672,
+    "sdpAnswer": "v=0\no=- 1786643443296 2 IN IP4 0.0.0.0\ns=NetCall WebRTC P2P Voice Session Answer\nt=0 0\na=group:BUNDLE audio\na=ice-ufrag:e05e7ba3\na=ice-pwd:82cbfc789db2084e586f1081\na=fingerprint:sha-256 FF:AA:BB:CC:DD:11:22:33:44:55:66:77:88:99:00:11:22:33:44:55\nm=audio 50672 UDP\/TLS\/RTP\/SAVPF 111 103 104 9 0 8\nc=IN IP4 0.0.0.0\na=rtcp-mux\na=rtpmap:111 opus\/48000\/2\na=sendrecv\na=setup:active",
+    "stunServers": [
+      "stun:stun.l.google.com:19302",
+      "stun:stun1.l.google.com:19302",
+      "stun:stun2.l.google.com:19302",
+      "stun:stun3.l.google.com:19302",
+      "stun:stun4.l.google.com:19302",
+      "turn:openrelay.metered.ca:80",
+      "turn:openrelay.metered.ca:443",
+      "turn:openrelay.metered.ca:443?transport=tcp"
+    ],
+    "iceCandidates": "candidate:1 1 UDP 2122260223 10.211.21.229 50672 typ host\ncandidate:2 1 UDP 1686052607 10.211.21.229 50672 typ srflx\ncandidate:3 1 UDP 1686052607 10.211.21.229 50672 typ srflx\ncandidate:4 1 UDP 1686052607 10.211.21.229 50672 typ srflx\ncandidate:5 1 UDP 1686052607 10.211.21.229 50672 typ srflx\ncandidate:6 1 UDP 1686052607 10.211.21.229 50672 typ srflx\ncandidate:10 1 UDP 41885439 10.211.21.229 50672 typ relay\ncandidate:11 1 UDP 41885439 10.211.21.229 50672 typ relay\ncandidate:12 1 UDP 41885439 10.211.21.229 50672 typ relay",
+    "timestamp": 1786643443308,
     "date": "2026-08-13",
-    "time": "11:18:16 PM"
+    "time": "11:20:43 PM"
   }
 ]

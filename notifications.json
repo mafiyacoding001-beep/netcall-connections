@@ -1,12 +1,26 @@
 [
   {
-    "callId": "call-1786643470635",
+    "callId": "call-1786643786475",
     "callerName": "mafiyacoding001-beep",
     "callerGithubUsername": "@mafiyacoding001-beep",
     "recipientGithubUsername": "@bholabhai5692",
-    "status": "DISCONNECTED",
-    "timestamp": 1786643493542,
+    "status": "OFFERING",
+    "senderIp": "10.211.21.229",
+    "senderPort": 50672,
+    "sdpOffer": "v=0\no=- 1786643786475 2 IN IP4 0.0.0.0\ns=NetCall WebRTC P2P Voice Session\nt=0 0\na=group:BUNDLE audio\na=ice-ufrag:879edc4f\na=ice-pwd:2cfd6ef16ad4750bbc8aae96\na=ice-options:trickle\na=fingerprint:sha-256 EE:BB:CC:DD:AA:11:22:33:44:55:66:77:88:99:00:11:22:33:44:55\nm=audio 50672 UDP\/TLS\/RTP\/SAVPF 111 103 104 9 0 8\nc=IN IP4 0.0.0.0\na=rtcp-mux\na=rtpmap:111 opus\/48000\/2\na=fmtp:111 minptime=10;useinbandfec=1\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\na=sendrecv\na=setup:actpass\na=ice-servers:stun:stun.l.google.com:19302;stun:stun1.l.google.com:19302;stun:stun2.l.google.com:19302;stun:stun3.l.google.com:19302;stun:stun4.l.google.com:19302;turn:openrelay.metered.ca:80;turn:openrelay.metered.ca:443;turn:openrelay.metered.ca:443?transport=tcp",
+    "stunServers": [
+      "stun:stun.l.google.com:19302",
+      "stun:stun1.l.google.com:19302",
+      "stun:stun2.l.google.com:19302",
+      "stun:stun3.l.google.com:19302",
+      "stun:stun4.l.google.com:19302",
+      "turn:openrelay.metered.ca:80",
+      "turn:openrelay.metered.ca:443",
+      "turn:openrelay.metered.ca:443?transport=tcp"
+    ],
+    "iceCandidates": "",
+    "timestamp": 1786643786476,
     "date": "2026-08-13",
-    "time": "11:21:33 PM"
+    "time": "11:26:26 PM"
   }
 ]

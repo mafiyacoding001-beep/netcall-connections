@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "sessionId": "handshake-session-1786634348718",
+    "roomCode": "8839",
+    "peerGithubUsername": "@bholabhai5692",
+    "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.188 54321 typ host",
+    "protocol": "WebRTC E2EE Handshake \/ SDP + Barcode Exchange",
+    "status": "E2EE Privacy Barcode Handshake Verified",
+    "timestamp": 1786634348718,
+    "date": "2026-08-13",
+    "time": "08:49:08 PM"
+  }
+]

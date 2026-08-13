@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "sessionId": "webrtc-session-1001",
+    "roomCode": "8839",
+    "peerNetCallId": "NC-5532",
+    "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
+    "protocol": "WebRTC \/ SDP + ICE Candidates",
+    "status": "WebRTC P2P Direct Tunnel Established",
+    "timestamp": 1786611573289,
+    "date": "2026-08-13",
+    "time": "02:29:33 PM"
+  }
+]

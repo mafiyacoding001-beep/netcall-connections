@@ -1,12 +1,12 @@
 [
   {
     "callId": "call-1786643873845",
-    "callerName": "mafiyacoding001-beep",
-    "callerGithubUsername": "@mafiyacoding001-beep",
-    "recipientGithubUsername": "@bholabhai5692",
-    "status": "DISCONNECTED",
-    "timestamp": 1786643891966,
+    "callerName": "bholabhai5692",
+    "callerGithubUsername": "@bholabhai5692",
+    "recipientGithubUsername": "@mafiyacoding001-beep",
+    "status": "NOT_CONNECTED",
+    "timestamp": 1786643896285,
     "date": "2026-08-13",
-    "time": "11:28:11 PM"
+    "time": "11:28:16 PM"
   }
 ]
